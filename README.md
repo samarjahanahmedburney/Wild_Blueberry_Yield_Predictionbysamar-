@@ -1,18 +1,18 @@
 # Wild_Blueberry_Yield_Predictionbysamar
 This project aims to predict the yield of wild blueberries based on various factors such as environmental conditions, bee activity, and pollination rates. The analysis involves exploring the dataset, visualizing relationships between variables, and applying several regression models to predict the yield.
 
-Project Steps:
-Data Loading and Initial Inspection:
+#Project Steps:
+#Data Loading and Initial Inspection:
 
 Load the dataset WildBlueberryPollinationSimulationData.csv.
 Display the first few rows, shape, and information about the dataset.
 Check for missing values and duplicates.
-Exploratory Data Analysis (EDA):
+#Exploratory Data Analysis (EDA):
 
 Visualize the distribution of numerical features using histograms.
 Analyze the correlation between features using a heatmap.
 Examine feature importances from the trained models to understand which factors most influence yield.
-Data Preprocessing:
+#Data Preprocessing:
 
 Handle missing values (although none were found in this dataset).
 Split the data into training and testing sets.
